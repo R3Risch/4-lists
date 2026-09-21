@@ -1,3 +1,15 @@
 html {
     background-color: darkblue;
 }
+
+.square-list {
+    list-style-type: square;
+}
+
+.upper-letter {
+    list-style-type: upper-alpha;
+}
+
+.setting {
+    list-style-type: none;
+}
